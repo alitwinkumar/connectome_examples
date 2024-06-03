@@ -4,7 +4,7 @@ This repository contains example notebooks for connectome analysis. Relies on [c
 ## Conda environment (Python users)
 This repository includes a convenience environment file for conda users. To create a conda environment with the dependencies for these examples, run:
 
- `conda create -f env.yml`
+ `conda env create -f env.yml`
 
  To activate the enironment run:
 
